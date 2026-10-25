@@ -1,11 +1,11 @@
 Hi, I'm Michael 👋
 ==================
 
-📍 Lagos, Nigeria · 🛡️ Cybersecurity · ☁️ Cloud & Enterprise Apps · 🤖 AI adoption & governance · 🧰 Hands-on engineering
+📍 Lagos, Nigeria ·  AI-Assisted Engineers 🛡️ Cybersecurity · ☁️ Cloud & Enterprise Apps · 🤖 AI adoption & governance · 🧰 Hands-on engineering
 
 > I make technology trustworthy: secure, governed, and ready for AI, with the technical depth to build it myself.
 
-I'm a technology leader with 11+ years across banking infrastructure, healthcare IT, enterprise-software support, ERP delivery, and IT leadership. I came up through servers, networks, and Tier II support, and I'm still at home in **Linux, Git, Elasticsearch, Docker, and Postman**. Today I lead **AI adoption, cybersecurity, and cloud modernization**, and I ship real systems with **AI-assisted engineering** rather than strategy decks.
+I'm a technology leader with 11+ years across banking infrastructure, healthcare IT, enterprise-software support, ERP delivery, and IT leadership. I came up through servers, networks, and Tier II support, and I'm still at home in **Linux, Git, Elasticsearch, Docker, Tensorflow, ASP.NET and Postman**. Today I lead **AI adoption, cybersecurity, and cloud modernization**, and I ship real systems with **AI-assisted engineering** rather than strategy decks.
 
 Current Projects
 ----------------
