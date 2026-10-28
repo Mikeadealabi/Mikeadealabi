@@ -12,7 +12,7 @@ Current Projects
 
 All of these are live. Source is closed unless noted; each link goes to the running product.
 
-- 🧒 **[Wonda](https://wonda.com)**: an ad-free, AI-guided learning world for kids aged 5-15. The AI companion works only inside structured missions, with a parental dashboard for session limits and data control. English and Nigerian Pidgin. *Next.js, React, Supabase.*
+- 🧒 **[WondaKind](https://wondakind.com)**: an ad-free, AI-guided learning world for kids aged 5-15. The AI companion works only inside structured missions, with a parental dashboard for session limits and data control. English and Nigerian Pidgin. *Next.js, React, Supabase.*
 - 🤝 **[Jimmy](https://jimmy-hr-assistant.netlify.app/)**: an HR assistant grounded strictly in company policy via the Claude API. Replies in English or Pidgin, routes sensitive matters to humans, and sends HR an anonymized weekly usage digest. *React, Vite, Netlify Functions, Claude API.*
 - 🧭 **[TrailHeadON](https://trailheadon.com)**: self-paced onboarding. Departments upload courses once; new joiners work through them on their own.
 - 🗂️ **[TrailBase](https://trailbase.netlify.app)**: an HR platform for the employee lifecycle (leave, appraisals, disciplinary records, documents, resignation). Role-scoped access, national IDs encrypted at rest. *Next.js, Prisma, PostgreSQL.*
